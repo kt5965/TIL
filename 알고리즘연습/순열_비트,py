@@ -1,0 +1,22 @@
+N = 3
+arr = list(range(1, 4))
+sel = [0] * N
+
+
+
+def perm(idx, check):
+    if idx == N:
+        print(sel)
+        return
+
+
+    else:
+        for i in range(N):
+            # i 번째 썼으면 그냥 넘어가
+            if check & (1<<i): continue
+
+            sel[idx] = arr[i]
+            perm(idx+1, check | (1<<i)) #원상복구가 필요없다
+
+
+perm(0, 0)
