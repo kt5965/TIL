@@ -10,7 +10,7 @@ for tc in range(1, T+1):
         for j in range(12):
             if i & (1 << j):
                 number_list.append(number[j])
-
+                print(number_list)
         sum_list = 0
         for i in range(len(number_list)):
             sum_list += number_list[i]
