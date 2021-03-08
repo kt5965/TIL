@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2df4dfa2-5202-4ccf-a166-b9795c75a668" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2df4dfa2-5202-4ccf-a166-b9795c75a668" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="2130668377">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -207,33 +205,6 @@
             <path>
               <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="swea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="swea" type="462c0819:PsiDirectoryNode" />
-              <item name="4837_부분집합의 합" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="백준" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="알고리즘연습" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="알고리즘연습" type="462c0819:PsiDirectoryNode" />
-              <item name="기타 알고리즘" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
